@@ -20,6 +20,8 @@ We wrote Python scripts found in the `scripts` folder to scrape data from those 
 
 The raw data collected can be found in the `csv_data_raw` folder. The cleaned data can be found in the `csv_data_cleaned`. We have also compiled all the cleaned csv files into a single file called `ransomware_combined_cleaned_data` also found in the `csv_data_cleaned` folder.
 
+We also compiled an excel file called `Breakdown of Data Stolen in Industries` to illustrate the type of data stolen in each industry. This can also be found in `csv_data_cleaned`.
+
 Our Tableu Charts are also saved and can be found in the `Tableu Charts.twb` file.
 
 ## Running the scripts
