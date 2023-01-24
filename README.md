@@ -1,4 +1,4 @@
-# Ransomware-Actors-Analysis
+# Ransomware-Groups-Analysis
 
 ## Overview
 Ransomware has become a significant threat to companies, large and small, all around the world. Ransomware in 2021 almost doubled from the previous year and 2022 shows no sign of slowing down. In this project, we analyse the ransomware landscape in 2022 by finding first-hand evidence of the various attacks that occurred by looking through the ransomware shaming websites on the dark web. We base our study by choosing 4 ransomware groups.
